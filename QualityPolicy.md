@@ -1,8 +1,8 @@
 ### Quality Policy
-> User Stories (US) must be correctly written with Acceptance Tests and should only be moved into the Sprint Backlog if they can be realistically completed within the sprint. The Scrum board should be regularly updated, ensuring tasks move through the stages: New, In Progress, Ready for Test. For Git/GitHub housekeeping, the integrity of the main and dev branches will be maintained. Branches should not be deleted, and commit messages musy include US# and Task# with a clear description. Merges should be conducted through Pull Requests (PR), ensuring fast-forward merges. With a PR requiring review by at least one team member that is not the author. Final approval and merging will be conducted by the Git Master. 
+> Describe your Quality Policy in detail for this Sprint (remember what I ask you to do when I talk about the "In your Project" part in the lectures and what is mentioned after each assignment (in due course you will need to fill out all of them, check which ones are needed for each Deliverable). You should keep adding things to this file and adjusting your policy as you go. Check in Project: Module Concepts document on Canvas in the Project module for more details
 
 **GitHub Workflow** (start Sprint 1)
-  > Describe your Workflow
+> User Stories (US) must be correctly written with Acceptance Tests and should only be moved into the Sprint Backlog if they can be realistically completed within the sprint. The Scrum board should be regularly updated, ensuring tasks move through the stages: New, In Progress, Ready for Test. For Git/GitHub housekeeping, the integrity of the main and dev branches will be maintained. Branches should not be deleted, and commit messages musy include US# and Task# with a clear description. Merges should be conducted through Pull Requests (PR), ensuring fast-forward merges. With a PR requiring review by at least one team member that is not the author. Final approval and merging will be conducted by the Git Master.
 
 **Unit Tests Blackbox** (start Sprint 2)
   > Describe your Blackbox testing policy 
