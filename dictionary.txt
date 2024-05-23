@@ -1,15 +1,15 @@
 // obtained either from Google Translate, Wikipedia, or via a Google Search
 
 Raesfeld: Ort in Nordrhein-Westfalen (place)
-Flughafen: airport  
-Berlin: Berlin (place)
+x Flughafen: airport  
+x Berlin: Berlin (place)
 Bratwurst: a type of German pork sausage that is typically fried or grilled.
 x Hauptstrasse: main road 
-Brot: Violation
+x Brot: Violation
 Klimaanlage: air conditioner
 Rammstein: ramming stone; German rock band
 x Porsche: Type of car 
-BMW: Type of car 
+x BMW: Type of car 
 Biergarten: beer garden 
 Ratskeller: council's cellar (bar or restuarant located in the basement of 
 	a city hall or nearby)
@@ -20,9 +20,9 @@ Schloss: a building similar to a chateau, palace, or manor house
 wettbewerbsfaehig: competitive 
 Mehlhase: sparks
 Gebaeck: pastries, cookies 
-Baeckerei: bakery 
+x Baeckerei: bakery 
 x Hund: Dog
 Doener: doer 
-Apfelkuchen: apple cake 
+x Apfelkuchen: apple cake 
 Schloss: ??
 Eltz: in reference to Eltz Castle (place)
