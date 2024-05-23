@@ -4,11 +4,11 @@ Raesfeld: Ort in Nordrhein-Westfalen (place)
 Flughafen: airport  
 Berlin: Berlin (place)
 Bratwurst: a type of German pork sausage that is typically fried or grilled.
-Hauptstrasse: main road 
+x Hauptstrasse: main road 
 Brot: Violation
 Klimaanlage: air conditioner
 Rammstein: ramming stone; German rock band
-Porsche: Type of car
+x Porsche: Type of car 
 BMW: Type of car 
 Biergarten: beer garden 
 Ratskeller: council's cellar (bar or restuarant located in the basement of 
@@ -21,7 +21,7 @@ wettbewerbsfaehig: competitive
 Mehlhase: sparks
 Gebaeck: pastries, cookies 
 Baeckerei: bakery 
-Hund: Dog
+x Hund: Dog
 Doener: doer 
 Apfelkuchen: apple cake 
 Schloss: ??
