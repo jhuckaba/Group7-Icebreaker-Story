@@ -1,8 +1,25 @@
 ### Quality Policy
-> Describe your Quality Policy in detail for this Sprint (remember what I ask you to do when I talk about the "In your Project" part in the lectures and what is mentioned after each assignment (in due course you will need to fill out all of them, check which ones are needed for each Deliverable). You should keep adding things to this file and adjusting your policy as you go. Check in Project: Module Concepts document on Canvas in the Project module for more details
 
 **GitHub Workflow** (start Sprint 1)
-> User Stories (US) must be correctly written with Acceptance Tests and should only be moved into the Sprint Backlog if they can be realistically completed within the sprint. The Scrum board should be regularly updated, ensuring tasks move through the stages: New, In Progress, Ready for Test. For Git/GitHub housekeeping, the integrity of the main and dev branches will be maintained. Branches should not be deleted, and commit messages musy include US# and Task# with a clear description. Merges should be conducted through Pull Requests (PR), ensuring fast-forward merges. With a PR requiring review by at least one team member that is not the author. Final approval and merging will be conducted by the Git Master.
+> - The integrity of the main and development branches shall be maintained. 
+>  - This is accomplished with a protected `main` branch and `development` branch. 
+> - Branches:
+>  - Branches should not be deleted.
+>  - Each User Story shall have its own branch. 
+>   - Branch naming convention: US#NM (US#01)
+>  - Branches shall originate in the `development` branch.
+>  - Whenever `development` is updated, team members shall merge `development` into the current US Branch they're working on.
+> - Commit messages: 
+>  - Commit messages titles shall be of the format: US#NM, Task#NM: Description
+>   - The Description shall be concise and in the imperative mood.
+> - Merges: 
+>  - Merges into `development` shall be conducted through Pull Requests (PR). 
+>   - The Team Member submitting the PR shall ensure the merge is a fast-foward.
+>    - The PR's author shall perform their own, independent review and testing of the merge PRIOR to submitting the PR. 
+>   - `development` shall always be fully functional.
+>   - The PR shall require a review by at least one Team Member that is not the author. 
+>  - Final approval and merging shall be conducted by the Git Master.
+>  - `development` shall be merged into `main` once it has been fully tested and verified.
 
 **Unit Tests Blackbox** (start Sprint 2)
   > Describe your Blackbox testing policy 
@@ -13,9 +30,9 @@
 **Code Review** (online: start Sprint 2, campus: start Sprint 2)
   > Describe your Code Review policy for on campus it is ok to have a less formal process in Sprint 2, should be updated in Sprint 3 though
 
-  > Include a checklist/questions list which every developer will need to fill out/answe when creating a Pull Request to the Dev branch. 
+  > Include a checklist/questions list which every developer will need to fill out/answer when creating a Pull Request to the Dev branch. 
 
-  > Include a checklist/question list which every reviewer will need to fill out/anser when conducting a review, this checklist (and the answers of course) need to be put into the Pull Request review.
+  > Include a checklist/question list which every reviewer will need to fill out/answer when conducting a review, this checklist (and the answers of course) need to be put into the Pull Request review.
 
 **Static Analysis**  (online: start Sprint 3, campus: start Sprint 3)
   > Your Static Analysis policy   

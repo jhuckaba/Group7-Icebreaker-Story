@@ -166,12 +166,15 @@ Copy the section for each team member and then everyone adds their individual co
 - [ ] User Stories that were not completed, were left in the Sprint and a copy created to move to the next Sprint
 - [X] Your Quality Policies are accurate and up to date
 - [ ] **Individual** Survey was submitted **individually** (create checkboxes below -- see Canvas to get link)
-  - [ ] Team member 1
-  - [ ] Team member 2
+  - [ ] Savannah Johnson 
+  - [ ] Jennifer Huckabay 
+  - [ ] Preeti Phillip
+  - [ ] Sarah Anderson 
+  - [ ] Damion Dray
 
 #### For the next Sprint
   - [X] The original of this file was copied for the next Sprint (needed for all but last Sprint where you do not need to copy it anymore)
-    - [ ] Basic information (part 1) for next Sprint was included in this new Deliverable document 
+    - [X] Basic information (part 1) for next Sprint was included in this new Deliverable document 
   - [ ] You added new User Stories to your Product Backlog, they are correctly written (needed after Sprint 1, 2)
   - [ ] All User Stories have acceptance tests
   - [ ] User Stories in your new Sprint Backlog have initial tasks which are in New column
